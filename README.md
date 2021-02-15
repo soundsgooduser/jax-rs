@@ -1,1 +1,1 @@
-# jax-rs
+http://localhost:8080/app/rest/tickets
